@@ -1,3 +1,31 @@
-h1{
-    color: red;
+.section{
+    width: 100%;
+    height: 700px;
+    /* border: 1px solid black; */
+    box-shadow: 2px 2px 10px black;
+    text-align: center;
+    border-radius: 10px;
+    /* background-color: #fffcfb; */
+}
+.bivag{
+    padding-top: 50px;
+    padding-bottom: -10px;
+    font-size: 40px;
+}
+.all_section{
+    display: inline-block;
+    margin: 25px;
+    height: 150px;
+    width: 200px;
+    border-top: 50px solid #015551;
+    box-shadow: 2px 2px 8px black;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h3{
+    margin-right: 20px;
+    margin-top: 60px;
+    font-size: 20px;
+    color:green;
 }
